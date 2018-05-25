@@ -19,6 +19,10 @@ header {
     color: #777;
 }
 
+.cbo{
+    position: relative;
+}
+
 #taco {
     margin-left: auto;
     margin-right: auto;
@@ -54,6 +58,7 @@ aside {
     background: #ebebeb;
     color: #777;
     padding: 40px; 
+    padding-bottom: 295px;
 }
 
 h3 {
